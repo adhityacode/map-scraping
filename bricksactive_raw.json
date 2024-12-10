@@ -1,0 +1,1139 @@
+{
+    "data": {
+        "data": {
+            "dataList": [
+                {
+                    "data": {
+                        "storeCode": "1024092307228",
+                        "storeName": "LEGO SUPERMAL KARAWACI",
+                        "orgCode": "10008174",
+                        "imageLink": "",
+                        "storePhone": "0215462611",
+                        "storeMobile": "",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20001432",
+                        "stateName": "Banten",
+                        "cityCode": "30006154",
+                        "cityName": "Kab. Tangerang",
+                        "districtCode": "40006155",
+                        "districtName": "Kelapa Dua",
+                        "address1": "Supermal Karawaci, Jl. Boulevard Diponegoro No.105 LT. GF. Bencongan, Kec. Klp. Dua, Kabupaten Tangerang, Banten",
+                        "zipCode": "15810",
+                        "latitude": "-6.226640951346387",
+                        "longitude": "106.60848242161262",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1024071906976",
+                        "storeName": "LCS SENAYAN CITY",
+                        "orgCode": "10007865",
+                        "imageLink": "",
+                        "storePhone": "085817283322",
+                        "storeMobile": "",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20001388",
+                        "stateName": "DKI Jakarta",
+                        "cityCode": "30001406",
+                        "cityName": "Kota Jakarta Pusat",
+                        "districtCode": "40001406",
+                        "districtName": "Tanah Abang",
+                        "address1": "Senayan City 3rd Floor, Jl. Asia Afrika No.Lot 19, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+                        "zipCode": "10270",
+                        "latitude": "-6.227171400408633",
+                        "longitude": "106.79700889985953",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1024070406911",
+                        "storeName": "LEGO SANUR ICON",
+                        "orgCode": "10007798",
+                        "imageLink": "",
+                        "storePhone": "0361753450",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20002217",
+                        "stateName": "Bali",
+                        "cityCode": "30002270",
+                        "cityName": "Kota Denpasar",
+                        "districtCode": "40002272",
+                        "districtName": "Denpasar Selatan",
+                        "address1": "Sanur Icon 1F-24 & 25, Jl.Danau Tamblingan No.27 Sanur, Denpasar Selatan, Denpasar, Bali 80228",
+                        "zipCode": "80228",
+                        "latitude": "-8.686635824776538",
+                        "longitude": "115.26279188514762",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1024052206644",
+                        "storeName": "LEGO BEACHWALK MALL BALI ",
+                        "orgCode": "10007531",
+                        "imageLink": "",
+                        "storePhone": "0361-8465588",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20002217",
+                        "stateName": "Bali",
+                        "cityCode": "30002217",
+                        "cityName": "Kab. Badung",
+                        "districtCode": "40002218",
+                        "districtName": "Kuta Selatan",
+                        "address1": "BEACHWALK SHOPPING CENTER LT 1 UNIT L1-16  JL PANTAI KUTA, KUTA, KEC KUTA, KAB BADUNG, BALI\n",
+                        "zipCode": "80361",
+                        "latitude": "-8.717456036",
+                        "longitude": "115.1694187",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1024052206643",
+                        "storeName": "LEGO CENTRAL PARK",
+                        "orgCode": "10007530",
+                        "imageLink": "",
+                        "storePhone": "021-38789067",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20001388",
+                        "stateName": "DKI Jakarta",
+                        "cityCode": "30001424",
+                        "cityName": "Kota Jakarta Barat",
+                        "districtCode": "40001431",
+                        "districtName": "Grogol Petamburan",
+                        "address1": "CENTRAL PARK MALL , LT. UG UNIT 111  JL. LETJEN S. PARMAN KAV 28, RT.12/RW.6, TJ. DUREN SEL  JAKARTA BARAT\n",
+                        "zipCode": "11470",
+                        "latitude": "-6.176837646",
+                        "longitude": "106.7915578",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1024052206642",
+                        "storeName": "LEGO STORE LIPPO MALL PURI",
+                        "orgCode": "10007529",
+                        "imageLink": "",
+                        "storePhone": "021-51010242",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20001388",
+                        "stateName": "DKI Jakarta",
+                        "cityCode": "30001424",
+                        "cityName": "Kota Jakarta Barat",
+                        "districtCode": "40001429",
+                        "districtName": "Kebon Jeruk",
+                        "address1": "LIPPO MALL PURI LT.LG UNIT 50-51 JL. RAYA PURI INDAH, KEMBANGAN - JAKARTA BARAT\n",
+                        "zipCode": "11610",
+                        "latitude": "-6.189602397",
+                        "longitude": "106.7392699",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1024043006579",
+                        "storeName": "LEGO TUNJUNGAN PLAZA 3",
+                        "orgCode": "10007462",
+                        "imageLink": "",
+                        "storePhone": "031-35979026",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20002351",
+                        "stateName": "Jawa Timur",
+                        "cityCode": "30006122",
+                        "cityName": "Kota Surabaya",
+                        "districtCode": "40006126",
+                        "districtName": "Tegalsari",
+                        "address1": "JL. BASUKI RAHMAT NO. 8 - 12 SURABAYA",
+                        "zipCode": "60261",
+                        "latitude": "-7.26279892392269",
+                        "longitude": "112.73901126583614",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1024043006578",
+                        "storeName": "LEGO PAKUWON MALL SURABAYA",
+                        "orgCode": "10007461",
+                        "imageLink": "",
+                        "storePhone": "031-35973003",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20002351",
+                        "stateName": "Jawa Timur",
+                        "cityCode": "30006122",
+                        "cityName": "Kota Surabaya",
+                        "districtCode": "40006124",
+                        "districtName": "Wiyung",
+                        "address1": "JL. PUNCAK INDAH LONTAR NO. 2 SURABAYA\n",
+                        "zipCode": "60123",
+                        "latitude": "-7.288118302560944",
+                        "longitude": "112.6756286793286",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1024043006577",
+                        "storeName": "LEGO SUMMARECON SERPONG",
+                        "orgCode": "10007460",
+                        "imageLink": "",
+                        "storePhone": "021-29310457",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20001432",
+                        "stateName": "Banten",
+                        "cityCode": "30006189",
+                        "cityName": "Kota Tangerang",
+                        "districtCode": "40006201",
+                        "districtName": "Tangerang",
+                        "address1": "SUMMARECON MALL SERPONG LT. GF-237. JL. BOULEVARD RAYA GADING SERPONG, PAKULONAN BARAT, KEC. KELAPA DUA, TANGERANG-BANTEN",
+                        "zipCode": "15810",
+                        "latitude": "-6.240676771561722",
+                        "longitude": "106.6301569359749",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1024022306481",
+                        "storeName": "LEGO BINTARO EXCHANGE 2",
+                        "orgCode": "10007356",
+                        "imageLink": "",
+                        "storePhone": "6281213907710",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20001432",
+                        "stateName": "Banten",
+                        "cityCode": "30006153",
+                        "cityName": "Kota Tangerang Selatan",
+                        "districtCode": "40006173",
+                        "districtName": "Pondok Aren",
+                        "address1": "Mall Bintaro Exchange 2 Unit GF-S-29, JL. SEKTOR VII NO.2, PD. JAYA, KEC. PD. AREN, KOTA TANGERANG SELATAN, BANTEN 15227",
+                        "zipCode": "15227",
+                        "latitude": "-6.28557778818325",
+                        "longitude": "106.72800179300847",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1023111406026",
+                        "storeName": "LEGO STORE GRAND INDONESIA",
+                        "orgCode": "10006888",
+                        "storePhone": "081110695842",
+                        "managerUserCode": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20001388",
+                        "stateName": "DKI Jakarta",
+                        "cityCode": "30001406",
+                        "cityName": "Kota Jakarta Pusat",
+                        "districtCode": "40001406",
+                        "districtName": "Tanah Abang",
+                        "address1": "Grand Indonesia East Mall Lt.3, Jl. M.H. Thamrin No.1, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",
+                        "zipCode": "10310",
+                        "latitude": "-6.195035041979067",
+                        "longitude": "106.82100231301484",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1023062805792",
+                        "storeName": "LEGO GANDARIA CITY JAKARTA",
+                        "orgCode": "10006612",
+                        "imageLink": "",
+                        "storePhone": "081776768746 / 087881228940",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20001388",
+                        "stateName": "DKI Jakarta",
+                        "cityCode": "30001414",
+                        "cityName": "Kota Jakarta Selatan",
+                        "districtCode": "40001421",
+                        "districtName": "Kebayoran Lama",
+                        "address1": "Gandaria City Mall Lantai 1 Unit 150, Jalan Sultan Iskandar Muda, Kebayoran Lama, RT.10/RW.6, Kby. Lama Utara, Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12240, Jakarta Selatan",
+                        "zipCode": "12240",
+                        "latitude": "-6.244166004764499",
+                        "longitude": "106.78352943618096",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1023053005748",
+                        "storeName": "LEGO TRANS STUDIO MALL MAKASSAR",
+                        "orgCode": "10006558",
+                        "imageLink": "",
+                        "storePhone": "085342723369",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20006724",
+                        "stateName": "Sulawesi Selatan",
+                        "cityCode": "30006724",
+                        "cityName": "Kota Makassar",
+                        "districtCode": "40006725",
+                        "districtName": "Tamalate",
+                        "address1": "Trans Studio Mall Makassar Lantai LG-122,  Jl. H. M. Dieng Patompo, Maccini Sombala, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90134",
+                        "zipCode": "90134",
+                        "latitude": "-5.1586727435166395",
+                        "longitude": "119.39463984216486",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1023053005747",
+                        "storeName": "LEGO TRANS STUDIO MALL CIBUBUR",
+                        "orgCode": "10006557",
+                        "imageLink": "",
+                        "storePhone": "02139730992",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20000422",
+                        "stateName": "Jawa Barat",
+                        "cityCode": "30002206",
+                        "cityName": "Kota Depok",
+                        "districtCode": "40002216",
+                        "districtName": "Cimanggis",
+                        "address1": "Trans Studio Mall Cibubur Lt.1 Unit 1-9, Jl. Alternatif Cibubur No.230 A, Harjamukti, Kec. Cimanggis, Kota Depok, Jawa Barat 16454",
+                        "zipCode": "16454",
+                        "latitude": "-6.375270892661407",
+                        "longitude": "106.90162499767662",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1023052305739",
+                        "storeName": "LEGO STORE CILANDAK TOWN SQUARE ",
+                        "orgCode": "10006546",
+                        "imageLink": "",
+                        "storePhone": "081280898439/081905004411",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20001388",
+                        "stateName": "DKI Jakarta",
+                        "cityCode": "30001414",
+                        "cityName": "Kota Jakarta Selatan",
+                        "districtCode": "40001414",
+                        "districtName": "Cilandak",
+                        "address1": "Cilandak Town Square Lt GF Kav 17, Jl. TB Simatupang, RT.6/RW.9, Cilandak Bar., Kec. Cilandak, DKI Jakarta, Daerah Khusus Ibukota Jakarta 12430",
+                        "zipCode": "12430",
+                        "latitude": "-6.291655979995379",
+                        "longitude": "106.7992145575922",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1023052305738",
+                        "storeName": "LEGO MALL PAKUWON YOGYA",
+                        "orgCode": "10006545",
+                        "imageLink": "",
+                        "storePhone": "08112982156 / 0274621138 ",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20002429",
+                        "stateName": "DI Yogyakarta",
+                        "cityCode": "30002459",
+                        "cityName": "Kab. Sleman",
+                        "districtCode": "40002461",
+                        "districtName": "Depok",
+                        "address1": "Pakuwon Mall, Jl. Raya Ringroad Utara, Condongcatur, Depok, Kab. Sleman, DI Yogyakarta 55281",
+                        "zipCode": "55281",
+                        "latitude": "-7.7594070859250355",
+                        "longitude": "110.39934727558739",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1023022305193",
+                        "storeName": "LEGO DELI PARK MEDAN",
+                        "orgCode": "10005963",
+                        "imageLink": "",
+                        "storePhone": "061-62000225 / 62000226",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20003336",
+                        "stateName": "Sumatera Utara",
+                        "cityCode": "30003751",
+                        "cityName": "Kota Medan",
+                        "districtCode": "40007122",
+                        "districtName": "Medan",
+                        "address1": "DELI PARK MEDAN LT. 1, JL. PUTRI HIJAU / GURU PATIMPUS BLOK OPQ NO. 1 MEDAN\n",
+                        "zipCode": "20111",
+                        "latitude": "03.5946948128469085",
+                        "longitude": "98.67451365450967",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1023022305192",
+                        "storeName": "LEGO MALL OF INDONESIA",
+                        "orgCode": "10005962",
+                        "imageLink": "",
+                        "storePhone": "021-22450448",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20001388",
+                        "stateName": "DKI Jakarta",
+                        "cityCode": "30001400",
+                        "cityName": "Kota Jakarta Utara",
+                        "districtCode": "40001405",
+                        "districtName": "Kelapa Gading",
+                        "address1": "MALL OF INDONESIA LT.GF  UNIT C12 C24 , JL BOULEVARD BARAT RAYA RT.018/RW.008 KELAPA GADING BARAT KEC.KELAPA GADING, JAKARTA UTARA",
+                        "zipCode": "14240",
+                        "latitude": "-6.151433561417154",
+                        "longitude": "106.89188416804778",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1023022305191",
+                        "storeName": "LEGO PVJ BANDUNG",
+                        "orgCode": "10005961",
+                        "imageLink": "",
+                        "storePhone": "022-82063729 ",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20000422",
+                        "stateName": "Jawa Barat",
+                        "cityCode": "30000619",
+                        "cityName": "Kota Bandung",
+                        "districtCode": "40000624",
+                        "districtName": "Sukajadi",
+                        "address1": "PARIS VAN JAVA LANTAI RL UNIT B-19 JL. SUKAJADI NO.131-139, CIPEDES, KEC. SUKAJADI, KOTA BANDUNG, JAWA BARAT",
+                        "zipCode": "40162",
+                        "latitude": "-6.889073514304065",
+                        "longitude": "107.59607288154629",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1023022305190",
+                        "storeName": "LEGO PIM 3",
+                        "orgCode": "10005960",
+                        "imageLink": "",
+                        "storePhone": "021-22761599",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20001388",
+                        "stateName": "DKI Jakarta",
+                        "cityCode": "30001414",
+                        "cityName": "Kota Jakarta Selatan",
+                        "districtCode": "40001421",
+                        "districtName": "Kebayoran Lama",
+                        "address1": "MALL PONDOK INDAH MALL 3, LT. 2 UNIT 201 - JL. METRO PONDOK INDAH KAV 3B, PONDOK PINANG KEBAYORAN LAMA, JAKARTA SELATAN",
+                        "zipCode": "12310",
+                        "latitude": "-6.263938354744621",
+                        "longitude": "106.78225093345041",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1023011204903",
+                        "storeName": "LEGO AEON BSD CITY",
+                        "orgCode": "10005659",
+                        "imageLink": "",
+                        "storePhone": "02155691506",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20001432",
+                        "stateName": "Banten",
+                        "cityCode": "30006154",
+                        "cityName": "Kab. Tangerang",
+                        "districtCode": "40006165",
+                        "districtName": "Pagedangan",
+                        "address1": "AEON Mall BSD Lt. FF 1-08, Jl. BSD Raya Utama, Pagedangan, Kec. Pagedangan, Kab. Tangerang, Banten 15345",
+                        "zipCode": "15345",
+                        "latitude": "-6.30513324457178",
+                        "longitude": "106.643557511808",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1023011204902",
+                        "storeName": "LEGO MALL KOTA KASABLANKA JAKARTA",
+                        "orgCode": "10005658",
+                        "imageLink": "",
+                        "storePhone": "02145853999",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20001388",
+                        "stateName": "DKI Jakarta",
+                        "cityCode": "30001414",
+                        "cityName": "Kota Jakarta Selatan",
+                        "districtCode": "40001415",
+                        "districtName": "Tebet",
+                        "address1": "Jl. Casablanca No.Kav. 88, RT.16/RW.5, Menteng Dalam, Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12870",
+                        "zipCode": "12870",
+                        "latitude": "-6.223949",
+                        "longitude": "106.842691",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1023011204901",
+                        "storeName": "LEGO MALL KELAPA GADING JAKARTA",
+                        "orgCode": "10005657",
+                        "imageLink": "",
+                        "storePhone": "02145853901",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20001388",
+                        "stateName": "DKI Jakarta",
+                        "cityCode": "30001400",
+                        "cityName": "Kota Jakarta Utara",
+                        "districtCode": "40001405",
+                        "districtName": "Kelapa Gading",
+                        "address1": "Jl. Boulevard Raya, RT.13/RW.18, Klp. Gading Tim., Klp. Gading, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",
+                        "zipCode": "14240",
+                        "latitude": "-6.157519",
+                        "longitude": "106.908021",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                },
+                {
+                    "data": {
+                        "storeCode": "1022102404641",
+                        "storeName": "PLANET SPORTS [AGILITY BEKASI]",
+                        "orgCode": "10005368",
+                        "imageLink": "",
+                        "storePhone": "087775045809",
+                        "managerUserCode": "",
+                        "taxCode": "",
+                        "bankName": "",
+                        "bankAccount": "",
+                        "bankAccountName": "",
+                        "countryCode": "1",
+                        "countryName": "Indonesia",
+                        "stateCode": "20000422",
+                        "stateName": "Jawa Barat",
+                        "cityCode": "30000672",
+                        "cityName": "Kota Bekasi",
+                        "districtCode": "40000676",
+                        "districtName": "Medan Satria",
+                        "address1": "PT. Agility International Jl.Wahab Affan Komplek Pergudangan Metrofeed No 5-6",
+                        "zipCode": "17132",
+                        "latitude": "-6.20729271692372",
+                        "longitude": "106.967908057933",
+                        "openStatus": 1,
+                        "status": 1,
+                        "defaultScheduleList": [
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            },
+                            {
+                                "scheduleStartHour": "0900",
+                                "scheduleEndHour": "1700",
+                                "__typename": "DefaultSchedule"
+                            }
+                        ],
+                        "__typename": "Store"
+                    },
+                    "__typename": "StoreEdge"
+                }
+            ],
+            "pageInfo": {
+                "totalCount": 24,
+                "__typename": "PageInfo"
+            },
+            "__typename": "StoreConnection"
+        }
+    },
+    "dataPresent": true
+}
